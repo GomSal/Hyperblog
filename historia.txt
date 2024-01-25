@@ -5,3 +5,5 @@ Freddy Vega tiene 32 años y nació en Colombia
 gomsalcr tiene 20 años y nació en internet
 
 Mañana nos enfocaremos en su vida laboral
+
+Ahora, voy a mostrar la magia de git y gitHub.
