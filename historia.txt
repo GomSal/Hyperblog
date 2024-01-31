@@ -2,8 +2,8 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
-gomsalcr tiene 20 años y nació en internet
+CrMiguel es una persona que contribuye a este proyecto open source y nació en Internet
 
 Mañana nos enfocaremos en su vida laboral
 
-Ahora, voy a mostrar la magia de git y gitHub.
+
